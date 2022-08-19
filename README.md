@@ -10,7 +10,7 @@ Angular Framework
 ![](Pictures/PhotoRoom_20220818_094442.png)
 ### **Android Github**
 
- ![](../Static/androidgithub.png)
+![](Pictures/androidgithub.png)
 
 ## UI & Features:
 
